@@ -40,10 +40,7 @@ As seguintes métricas foram analisadas para embasar a decisão:
 │   ├── loja1.csv
 │   ├── loja2.csv
 │   ├── loja3.csv
-│   └── loja4.csv
-└── 📸 imagens/               ← Gráficos salvos (opcional)
-```
-
+    └── loja4.csv
 ---
 
 ## 📍 Conclusão
@@ -63,7 +60,7 @@ Essa decisão é baseada em evidências dos dados apresentados ao longo do relat
 
 Você pode abrir e executar o notebook diretamente no Google Colab:
 
-[🔗 Clique aqui para abrir no Google Colab](https://colab.research.google.com/drive/SEU-LINK-AQUI)
+[🔗 Clique aqui para abrir no Google Colab](https://colab.research.google.com/drive/19ljOUiPoytxnvPCbV01j6ur7KZCRA-lS?usp=sharing)
 
 ---
 
@@ -80,7 +77,7 @@ Você pode abrir e executar o notebook diretamente no Google Colab:
 
 **Maiara Franco**  
 Psicopedagoga e futura cientista de dados 👩‍🏫📊  
-[🔗 LinkedIn](https://www.linkedin.com/) | [🐙 GitHub](https://github.com/)
+[🔗 LinkedIn](https://www.linkedin.com/in/maiara-franco-b574b3372/) | [🐙 GitHub](https://github.com/prudenciom)
 
 ---
 

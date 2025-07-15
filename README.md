@@ -55,8 +55,6 @@ Exemplo de gráfico gerado:
 ```bash
 git clone https://github.com/prudenciom/alurastore.git
 
----
-
 ## 📚 Aprendizados
 
 - Leitura e manipulação de dados com `pandas`
@@ -65,10 +63,7 @@ git clone https://github.com/prudenciom/alurastore.git
 - Estruturação de notebooks com foco em insights
 - Organização de dados para tomada de decisões comerciais
 
----
-
 ## 📎 Créditos
 
 Projeto de análise de dados desenvolvido como parte da formação:  
 🎓 [Oracle Next Education - Alura](https://www.alura.com.br)
-
